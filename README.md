@@ -29,7 +29,3 @@ A simple yet powerful web-based translator app built using JavaScript and the Mi
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
-
-```bash
-git clone https://github.com/your-username/translator-app.git
-cd translator-app
